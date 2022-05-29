@@ -1,0 +1,59 @@
+section.hurairah {
+    position: relative;
+    padding: 30px 0px;
+    background-color: #f9e6e9;
+}
+.huri-content {
+    position: relative;
+    background-color: #fff;
+    padding: 20px;
+    width: 475px;
+    height: 750px;
+}
+.img-box figure {
+        width: 473px;
+        height: 750px;
+}
+
+.img-box img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    overflow: hidden;
+}
+.icon.box {
+    display: table-cell;
+}
+.iconBar {
+  width: 193px;
+  background-color: #ccc;
+  height: 750px;
+}
+
+.iconBar a {
+  display: block;
+  text-align: center;
+  padding: 40px;
+  transition: all 0.5s ease;
+  color: white;
+  font-size: 44px;
+}
+
+.iconBar a:hover {
+  background-color: #006346;
+}
+
+.active {
+  background-color: #b74cb7;
+}
+
+.huri-content h1 {
+    margin-top: 100px;
+}
+.icon.box .fa {
+    font-size: 35px;
+    color: #b74cb7;
+}
+
+.icon.box h3 {
+    font-size: 23px;
